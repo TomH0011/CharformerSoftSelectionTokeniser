@@ -218,7 +218,7 @@ if __name__ == "__main__":
     visualiser = GBSTVisualiser()
 
     print("=" * 60)
-    print("GBST CHARFORMER BLOCK IMPORTANCE VISUALIsATION")
+    print("GBST CHARFORMER BLOCK IMPORTANCE VISUALISATION")
     print("=" * 60)
 
     # Create main heatmap
